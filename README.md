@@ -12,6 +12,7 @@ This source code can be compiled in Borland C++ Builder 6.
 * Double-clicking the note will change the status of the note between Editing mode and Moving mode.
 * In Editing mode, you can write with rich editing features(change fonts, colors, ...).
 * In Moving mode, you can move the note with mouse dragging.
+* You can change the color of note and set alarms.
 
 ## Screenshot
 ![Screenshot](sticky.png)
