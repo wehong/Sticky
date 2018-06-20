@@ -1,0 +1,25 @@
+Functions called:
+ fflush (4 times)
+ delete (11 times)
+ free (7 times)
+ strncpy (1 times)
+ new (11 times)
+ SysReallocMem (287 times)
+ SysFreeMem (4235 times)
+ lstrlenA (1 times)
+ lstrcpynA (4 times)
+ memset (4 times)
+ SysGetMem (4236 times)
+ calloc (1 times)
+ strlen (69 times)
+ realloc (1 times)
+ strdup (1 times)
+ malloc (4 times)
+ memcpy (2 times)
+Resource types used:
+ object (11 allocs, 11 max)
+ memory block (4243 allocs, 1441 max)
+Modules used:
+ 00400000 05/05/2002 19:17:50 D:\¹®¼­µé\Cppºô´õ
+ Source\Ver6\Sticky100\Sticky.exe
+==========================================
